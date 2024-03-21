@@ -11,6 +11,9 @@ Transitions: Smooth transitions were incorporated throughout the page to create 
 Transforms: Transformations such as scaling, rotating, and skewing were used to dynamically modify the appearance of elements. This adds depth and dimension to the design, making it more visually captivating.
 
 Overall, this project challenged me to not only showcase my HTML and CSS skills but also to think creatively about user experience and design aesthetics. I'm proud of the outcome and excited to continue learning and growing throughout my internship at Oasis Infotech.
+I have deploy the task-1
+link below:-
+https://taks-1.netlify.app/
 
 Thank you for your support!
 
