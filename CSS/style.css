@@ -1,0 +1,200 @@
+body{
+      overflow-x: hidden;
+}
+.header{
+      background: url(../image/bg-image.png);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 750px;
+      width: 100%;
+}
+.header .logo h2{
+      color: rgb(176, 25, 25);
+      font-size: 1.8rem;
+}
+.header .right select {
+      border: none;
+      background: none;
+}
+
+.hero h1{
+      font-size: 6rem;
+      font-weight: 400;
+}
+.hero h5{
+      font-weight: 600;
+      font-size: 1.2rem;
+      margin-top: 20px;
+}
+.hero button , .main button , .device button{
+      background-color: rgb(19, 125, 90);
+      border-radius: 20px;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      font-weight: 500;
+      margin-top: 20px;
+      transition: all 2s ease;
+
+}
+.hero button:hover , .main button:hover , .device button:hover{
+      background-color: transparent;
+      border: 1px solid black;
+      color: black;
+}
+.hero p{
+      font-size: .9rem;
+      font-weight: 500;
+      margin-top: 20px;
+
+}
+.main {
+      margin-top: 50px;
+      padding: 50px;
+}
+.main img{
+      width: 400px;
+}
+.main .text{
+      width: 500px;
+
+}
+ .main .text p{
+      font-weight: 500;
+} 
+
+.internet .content{
+      width: 500px;
+}
+.internet img{
+      width: 350px;
+      margin-left: 80px;
+}
+.internet p{
+      font-size: .9rem;
+      font-weight: 500;
+}
+
+.device .img img{
+      width: 500px;
+}
+.device {
+      margin-top: 80px;
+}
+.device .content{
+      width: 500px;
+}
+
+.device .content p{
+      width: 400px;
+      font-size: .9rem;
+      font-weight: 500;
+      margin-top: 20px;
+}
+.device .content .font{
+      background-color: rgb(240, 237, 237);
+      padding: 10px;
+      font-size: 1rem;
+      /* margin-top: 20px; */
+}
+.device .content a{
+      color:rgb(19, 125, 90);
+      margin-top: 20px;
+      text-decoration: none;
+      border-bottom: 2px solid rgb(19, 125, 90);
+}
+.device .content .font-icon{
+      color:rgb(19, 125, 90);
+      font-size: .7rem;
+      margin-top: 20px;
+      margin-bottom: 20px;
+
+}
+.data{
+      margin: 90px 0px;
+}
+.data .content{
+      /* text-align: center; */
+      width: 280px;
+}
+.data img{
+      width: 300px;
+      transition: all 2s ease-out;
+}
+.data img:hover{
+      transform: scale(1.1);
+}
+.data .text{
+      text-align: center;
+      width: 280px;
+}
+.data .content h4{
+      font-size: 1.6rem;
+      margin-top: 20px;
+
+}
+.data .content p{
+      font-size: .9rem;
+      font-weight: 500;
+      margin-top: 20px;
+
+}
+.data .btn{
+      margin: 40px 0px;
+}
+.data .btn a{
+      color:rgb(19, 125, 90);
+      /* margin-top: 20px; */
+      text-decoration: none;
+      border-bottom: 2px solid rgb(19, 125, 90);
+}
+.data i{
+      color:rgb(19, 125, 90);
+      font-size: .7rem;
+      
+}
+.footer{
+      background-image: url(../image/foot-image.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: auto;
+      width: 0 auto;
+      padding: 100px;
+      position: relative;
+      height: 600px;
+      margin-top: 40px;
+      
+}
+.footer h2{
+      font-size: 3rem;
+}
+.footer .rating{
+      position: absolute;
+      right: 15%;
+      top: 30%;
+      line-height: 20px;
+}
+.footer .btn{
+      position: absolute;
+      bottom: 10%;
+      left: 40%;
+}
+.footer h1{
+      font-size: 3rem;
+}
+.footer p{
+      font-size: .9rem;
+      font-weight: 500;
+}
+.footer .font{
+      font-size: 3rem;
+}
+.footer .btn i{
+      font-size: .8rem;
+}
+.footer .btn a{
+      font-size: 1rem;
+      color: rgb(19, 125, 90);
+}

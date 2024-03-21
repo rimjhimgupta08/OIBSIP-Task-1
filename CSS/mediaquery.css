@@ -1,0 +1,204 @@
+@media screen and (max-width:1200px) {
+      .hero h1{
+            font-size: 4rem;
+            font-weight: 400;
+      }
+      .hero h5{
+            font-weight: 600;
+            font-size: 1rem;
+      }
+      .hero p{
+            font-size: .8rem;
+      }
+      .main img , .internet img , .device .img img{
+            width: 300px;
+      }
+      .main .text , .internet .content ,.device .content{
+            width: 300px;
+      
+      }
+      .main h1, .device h1, .internet h1{
+            font-size: 1.8rem;
+      }
+      .main p, .device p, .internet p{
+            font-size: .8rem;
+      }
+      .device .content p{
+            width: 300px;
+      }
+      
+      
+}
+@media screen and (max-width:1000px) {
+      .data .content{
+            /* text-align: center; */
+            width: 200px;
+      }
+      .data img{
+            width: 200px;
+      }
+      .data .text{
+            text-align: center;
+            width: 200px;
+      }
+      .data .content h4{
+            font-size: 1.1rem;
+            margin-top: 20px;
+      
+      }
+      .device .content p{
+            width: 300px;
+      }
+.data .content p{
+      font-size: .8rem;
+}
+.footer h2{
+      font-size: 2rem;
+}
+.footer h1{
+      font-size: 2rem;
+}
+.footer p{
+      font-size: .7rem;
+      font-weight: 500;
+}
+.footer .font{
+      font-size: 2rem;
+}
+.footer .btn i{
+      font-size: .8rem;
+}
+.footer .btn a{
+      font-size: .9rem;
+}
+}
+@media screen and (max-width:770px) {
+      .hero h1{
+            font-size: 3rem;
+            font-weight: 400;
+      }
+      .main img , .internet img {
+            width: 200px;
+      }
+      .main .text , .internet .content ,.device .content{
+            width: 250px;
+      
+      }
+      .device .img img{
+            width: 270px;
+      }
+      .footer h2{
+            font-size: 1.5rem;
+      }
+      .footer h1{
+            font-size: 1.5rem;
+      }
+      .footer p{
+            font-size: .7rem;
+      }
+      .footer .btn{
+            position: absolute;
+            bottom: 10%;
+            left: 30%;
+      }
+}
+@media screen and (max-width:650px) {
+      .device .content p{
+            width: 250px;
+      }
+      .header{
+            
+            height: 500px;
+            width: 100%;
+      }
+}
+@media screen and (max-width:576px) {
+      .hero h1{
+            font-size: 2rem;
+            font-weight: 400;
+      }
+      .main{
+            margin-top: 20px;
+      }
+      .main img ,.internet img ,.device .img img  {
+            width: 280px;
+            margin-left: 50px;
+      }
+      .main .text , .internet .content ,.device .content{
+            width: 400px;
+      
+      }
+      .device .content p{
+            width: 400px;
+      }
+      .footer{
+            padding: 20px;
+      }
+      .header{
+            
+            height: 500px;
+            width: 100%;
+      }
+}
+@media screen and (max-width:500px) {
+      .header .logo h2{
+            color: rgb(176, 25, 25);
+            font-size: 1.2rem;
+      }
+      .header{
+            
+            height: 450px;
+            width: 100%;
+      }
+      .header .logo img{
+            width: 100px;
+      }
+      .footer h2{
+            font-size: 1.2rem;
+      }
+      .device .content p{
+            width: 350px;
+      }
+      .data .content p{
+            font-size: .7rem;
+      }
+      .data img{
+            width: 180px;
+      }
+      .data .text .content{
+            text-align: center;
+            width: 180px;
+      }
+      .footer .btn{
+            position: absolute;
+            bottom: 10%;
+            left: 30%;
+      }
+      .footer .btn i{
+            font-size: .5rem;
+      }
+      .footer .btn a{
+            font-size: .7rem;
+      }
+}
+@media screen and (max-width:400px) {
+      .main img ,.internet img ,.device .img img  {
+            width: 280px;
+            margin-left: 0px;
+      }
+      .header .logo h2{
+            color: rgb(176, 25, 25);
+            font-size: 1rem;
+      }
+      .header .logo img{
+            width: 80px;
+      }
+      .device .content p{
+            width: 300px;
+      }
+      .footer .btn{
+            position: absolute;
+            bottom: 10%;
+            left: 20%;
+      }
+}
